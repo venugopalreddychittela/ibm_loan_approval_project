@@ -6,7 +6,6 @@ import os
 import sqlite3
 import hashlib
 from datetime import datetime
-st.write("RUNNING NEW APP.PY")
 
 # ============================================================
 # PAGE CONFIGURATION
